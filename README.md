@@ -41,7 +41,7 @@ Uma empresa de logística solicitou um dashboard para avaliar o processo de entr
 
 ![Demonstração do Dashboard](imagens/Dash_Log_gif.gif)
 
-https://github.com/limahmx/Projects_Dashboars/blob/f66db253abf8db941b5db48e85b909604fdba606/Imagens/Dash_Log_gif.gif
+Imagens/Dash_Log_gif.gif
 
 ---
 
