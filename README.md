@@ -27,13 +27,13 @@ Uma empresa de logística solicitou um dashboard para avaliar o processo de entr
 
 ---
 
-## 📊 Principais Insights
+## 📊 Principais Insights (Período 2024-2025)
 
-- **Total de Entregas:** 53.770  
-- **Total de Clientes:** 3.981  
-- **Tempo de Ciclo Médio:** 2,8 dias  
-- Mais de **70% das entregas foram antecipadas**, enquanto apenas 13% tiveram atraso  
-- Região **Norte** apresentou o maior percentual de entregas antecipadas (29,2%)  
+- **Total de Entregas:** 53.770
+- **Total de Clientes:** 3.981
+- **Tempo de Ciclo Médio:** 2,8 dias
+- Mais de **70% das entregas foram antecipadas**, enquanto apenas 13% tiveram atraso
+- Região **Norte** apresentou o maior percentual de entregas antecipadas (29,2%)
 
 ---
 
