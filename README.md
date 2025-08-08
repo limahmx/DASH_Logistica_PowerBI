@@ -1,6 +1,6 @@
 # 🚚 Dashboard de Logística - Power BI
 
-Este projeto apresenta um dashboard de logística desenvolvido no **Power BI** para monitorar e analisar o desempenho de entregas, de uma empresa fictícia do ramo logítisco.
+Este projeto apresenta um dashboard de logística desenvolvido no **Power BI** para monitorar e analisar o desempenho de entregas, de uma empresa fictícia do ramo logístisco.
 
 ---
 
@@ -8,7 +8,7 @@ Este projeto apresenta um dashboard de logística desenvolvido no **Power BI** p
 
 Uma empresa de logística solicitou um dashboard para avaliar o processo de entrega de produtos, apresentando de forma clara e funcional os principais **KPIs de logística**:
 
-1. **Total de Entregas sem Atraso por Canal de Entrega**  
+1. **Total de Entregas sem atraso por Canal de Entrega**  
 2. **Percentual de Entregas Antecipadas por Equipe de Entrega**  
 3. **Total de Entregas por Mês**  
 4. **Total de Entregas dos Top 5 Vendedores**  
@@ -39,7 +39,7 @@ Uma empresa de logística solicitou um dashboard para avaliar o processo de entr
 
 ## 🖼️ Demonstração do Dashboard
 
-![Dash_Log_gif](https://github.com/user-attachments/assets/85a1e495-8450-49d1-9455-b0bcabd3f6f5)
+![Demonstração do Dashboard](imagens/Dash_Log_gif.gif)
 
 ---
 
@@ -47,12 +47,9 @@ Uma empresa de logística solicitou um dashboard para avaliar o processo de entr
 ## 📂 Estrutura do Repositório
 
 ├── imagens/ # Imagens e GIFs do dashboard
-
 ├── README.md # Documentação do projeto
-
 ├── Dash - Logistica.pbix # Arquivo do Power BI
-
-└── dados_logistica/ # Base de dados fictícia utilizada no projeto 
+└── dados_logistica/ # Base de dados fictícia utilizada no projeto
 
 ---
 
