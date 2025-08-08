@@ -48,8 +48,11 @@ Uma empresa de logística solicitou um dashboard para avaliar o processo de entr
 ## 📂 Estrutura do Repositório
 
 ├── imagens/ # Imagens e GIFs do dashboard
+
 ├── README.md # Documentação do projeto
+
 ├── Dash - Logistica.pbix # Arquivo do Power BI
+
 └── dados_logistica/ # Base de dados fictícia utilizada no projeto
 
 ---
