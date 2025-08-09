@@ -6,14 +6,15 @@ Este projeto apresenta um dashboard de logística desenvolvido no **Power BI** p
 
 ## 🎯 Objetivo do Projeto
 
-Uma empresa de logística solicitou um dashboard para avaliar o processo de entrega de produtos, apresentando de forma clara e funcional os principais **KPIs de logística**:
+Desenvolver um dashboard que permita o monitoramento eficiente da entrega de produtos, com foco em alguns dos principais **KPIs de logística**:
 
 1. **Total de Entregas sem atraso por Canal de Entrega**  
 2. **Percentual de Entregas Antecipadas por Equipe de Entrega**  
 3. **Total de Entregas por Mês**  
 4. **Total de Entregas dos Top 5 Vendedores**  
 5. **Total de Entregas com Atraso por Cidade**  
-6. **Percentual de Entregas por Status de Entrega**  
+6. **Percentual de Entregas por Status de Entrega**
+7. **Tempo de Ciclo: tempo necessário para atender um pedido, da abertura do pedido até a entrega**  
 
 ---
 
