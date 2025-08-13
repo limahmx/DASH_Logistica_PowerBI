@@ -50,11 +50,11 @@ Desenvolver um dashboard que permita o monitoramento eficiente da entrega de pro
 
 ├── imagens/ # Imagens e GIFs do dashboard
 
-├── README.md # Documentação do projeto
+├── dados_logistica/ # Base de dados fictícia utilizada no projeto
 
 ├── Dash - Logistica.pbix # Arquivo do Power BI
 
-└── dados_logistica/ # Base de dados fictícia utilizada no projeto
+└── README.md # Documentação do projeto
 
 ---
 
