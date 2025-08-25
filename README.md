@@ -48,13 +48,13 @@ Desenvolver um dashboard que permita o monitoramento eficiente da entrega de pro
 
 ## 📂 Estrutura do Repositório
 
-├── imagens/ # Imagens e GIFs do dashboard
+- [`Imagens`](./Imagens) → Imagens e GIFs do dashboard
 
-├── dados_logistica/ # Base de dados fictícia utilizada no projeto
+- [`dados_logistica`](./dados_logistica) → Base de dados fictícia utilizada no projeto
 
-├── Dash - Logistica.pbix # Arquivo do Power BI
+- [`Dash-Logistica_Rev01.pbix`](./Dash-Logistica_Rev01.pbix) → Arquivo do Power BI
 
-└── README.md # Documentação do projeto
+- [`README.md`](./README.md) → Documentação do projeto
 
 ---
 
